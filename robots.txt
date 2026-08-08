@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yesandudulnith-blip.github.io/sampath-palathawana/sitemap.xml
